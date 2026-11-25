@@ -3,17 +3,28 @@ import os
 
 # 1. Define the fields you want to replace
 replacements = {
-    "[Insert App Name]": "Collage Gold",
-    "[Insert Date]": "2026-Dec-01",
-    "[VERSION]": "v1.0",
-    "[Insert Developer/Company Name]": "DITR Code Company",
-    "[Insert Support Email]": "paugoert@gmail.com",
-    "[Insert Business Address]": "Rm. 304, Ming Hoi Hse., Ming Nga Crt., Tai Po, N.T., H.K.",
-    "[Insert Business Address - Required for Trader Status]": "Rm. 304, Ming Hoi Hse., Ming Nga Crt., Tai Po, N.T., H.K.",
-    "[Insert Your Support Email]": "paugoert@gmail.com",
-    "[Insert Your Business Address - Required for Traders]": "Rm. 304, Ming Hoi Hse., Ming Nga Crt., Tai Po, N.T., H.K.",
-    "[Insert Link to Privacy Policy if available]": "https://abc.com",
-    "[Insert Your Country/State]": "Hong Kong"
+    "[Insert App Name]":
+        "Collage Gold (mobile application)",
+    "[Insert Date]":
+        "November 25, 2026",
+    "[VERSION]":
+        "v1.0",
+    "[Insert Developer/Company Name]":
+        "Wong Chung Yin, trading as DITR Code Company",
+    "[Insert Support Email]":
+        "paugoert@gmail.com",
+    "[Insert Business Address]":
+        "Rm. 304, Ming Hoi Hse., Ming Nga Crt., Tai Po, N.T., H.K.",
+    "[Insert Business Address - Required for Trader Status]":
+        "Rm. 304, Ming Hoi Hse., Ming Nga Crt., Tai Po, N.T., H.K.",
+    "[Insert Your Support Email]":
+        "paugoert@gmail.com",
+    "[Insert Your Business Address - Required for Traders]":
+        "Rm. 304, Ming Hoi Hse., Ming Nga Crt., Tai Po, N.T., H.K.",
+    "[Insert Link to Privacy Policy if available]":
+        "https://abc.com",
+    "[Insert Your Country/State]":
+        "Hong Kong Special Administrative Region (SAR)"
 }
 
 # 1. Check if a filename was provided via command line

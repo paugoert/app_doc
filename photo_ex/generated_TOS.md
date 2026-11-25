@@ -1,38 +1,40 @@
-# Terms of Service for Collage Gold
+# End User License Agreement & Terms of Service
 
-Last Updated: 2026-Dec-01
+**Product:** Collage Gold (mobile application) (Mobile Application)  
+**Effective Date:** November 25, 2026  
+**Developer:** Wong Chung Yin, trading as DITR Code Company (Hong Kong)  
 
-Welcome to Collage Gold (the "App"), provided by DITR Code Company ("we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms of Service ("Terms"). If you do not agree, please do not use the App.
+This is a legal agreement between you (the User) and Wong Chung Yin, trading as DITR Code Company ("Developer"). By downloading, installing, or using the Collage Gold mobile application ("Application"), you agree to be bound by these terms. If you do not agree, do not download or use the Application.
 
-## 1. Eligibility & App Usage
-* **License:** We grant you a personal, worldwide, revocable, non-exclusive, non-transferable license to use the App on your Android device strictly for personal, non-commercial use.
-* **Restrictions:** You agree not to copy, modify, distribute, sell, lease, or reverse engineer any part of our App or its source code.
-* **Prohibited Behavior:** You may not use the App to disrupt network services, access unauthorized device files, or interfere with other applications on the user's device.
+## 1. Scope of License
+The Developer grants you a personal, revocable, non-exclusive, non-transferable, limited license to download, install, and use the Application on electronic mobile devices (iOS/Android) that you own or control, strictly in accordance with these terms and the usage rules set forth by the Apple App Store and Google Play Store.
 
-## 2. In-App Purchases (IAP)
-* **Billing & Processors:** The App offers in-app purchases. All transactions, billing, and payments are handled securely through the Google Play Store billing system. 
-* **Virtual Items:** Any virtual goods or features purchased within the App are for personal use only and hold no real-world monetary value.
-* **Refunds:** Because payments are processed via Google Play, all refund requests are subject to the Google Play Refund Policy. To request a refund, please follow the guidelines provided in the Google Play Help Center.
+## 2. In-App Purchases (One-Time "Remove Ads" Purchase)
+* **Transaction Processing:** The Application is free to download and displays advertisements. You may optionally pay a one-time fee to permanently remove advertisements ("In-App Purchase"). All financial transactions are processed, billed, and managed securely through the Apple App Store or Google Play Store ("Application Stores").
+* **No Subscriptions:** This purchase is a one-time digital transaction. It does not entail recurring, monthly, or annual subscription billing.
+* **Refund Policy:** All transactions are final. Because billing is managed entirely by the Application Stores, any refund requests, billing errors, or payment disputes must be handled directly through Apple or Google support. The Developer cannot issue direct refunds.
 
-## 3. Advertisements & Third-Party Content
-* **Ad Displays:** The App displays advertisements to support its continuous development. These ads may be provided by third-party ad networks (such as Google AdMob).
-* **Third-Party Links:** Clicking on an advertisement may direct you to an external website or application. We do not control, endorse, or assume responsibility for the content, privacy policies, or practices of any third-party ad providers or their destinations.
+## 3. User Content & Image Processing
+* **Ownership:** You retain full ownership, copyright, and intellectual property rights to all photos, graphics, or text you import, edit, or process within the Application to create your collages.
+* **On-Device Privacy:** The Application is designed to process your image assets locally on your device. The Developer does not upload, store, or monitor your personal photographs on external servers.
+* **Responsibility:** You represent and warrant that you own or have the lawful right to use all media imported into the Application. You agree not to use the Application to process copyrighted, defamatory, or unlawful material.
 
+## 4. Prohibited Uses
+You agree that you will not:
+* Decompile, reverse engineer, disassemble, or attempt to derive the source code of the Application.
+* Distribute, rent, lease, lend, sell, or sublicense the Application.
+* Modify, alter, or create derivative works based upon the Application.
+* Use the Application in any manner that violates applicable local, national, or international laws.
 
-## 4. Privacy & Data Handling
-Your privacy is important to us. Please review our Privacy Policy https://abc.com to understand how we collect, use, and protect your information. 
+## 5. Third-Party Advertisements
+The free version of the Application integrates third-party advertising SDKs (such as Google AdMob). These networks may use device-specific anonymous identifiers to serve relevant ads. Data tracking and collection by these networks are governed strictly by our separate Privacy Policy.
 
-## 5. Disclaimers ("As-Is")
-The App is provided on an "AS IS" and "AS AVAILABLE" basis. We disclaim all warranties, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not guarantee that the App will always be secure, error-free, or function without disruptions.
+## 6. Limitation of Liability & "As-Is" Disclaimer
+The Application is provided to you "AS IS" and "AS AVAILABLE" with all faults and without warranties of any kind. To the maximum extent permitted by applicable law, DITR Code Company disclaims all warranties, express or implied. In no event shall the Developer's total liability to you for all damages exceed the amount of $100 HKD or the actual fee paid for the "Remove Ads" option.
 
-## 6. Limitation of Liability
-To the maximum extent permitted by applicable law, DITR Code Company shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the App.
-
-## 7. Governing Law & Consumer Rights
-* **Governing Law:** These Terms are governed by the laws of Hong Kong.
-* **Consumer Protection:** If you are a consumer residing in the European Economic Area (EEA) or the United Kingdom (UK), you retain all mandatory statutory consumer protection rights provided under your local laws.
+## 7. Governing Law
+This Agreement and any disputes arising out of your use of the Application shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region (SAR). Any formal legal disputes shall be handled exclusively by the courts located within Hong Kong Special Administrative Region (SAR).
 
 ## 8. Contact Information
-If you have any questions or concerns regarding these Terms, please contact us at:
-* **Email:** paugoert@gmail.com
-* **Address:** Rm. 304, Ming Hoi Hse., Ming Nga Crt., Tai Po, N.T., H.K.
+For support, feedback, or inquiries regarding the Application, you may contact:
+* Email: paugoert@gmail.com
